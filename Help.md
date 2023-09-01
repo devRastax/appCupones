@@ -2,7 +2,7 @@
 Se proponen las siguientes ideas de aplicación para el proyecto:
 
 ## ***Idea 1: CuponApp(seleccionada)***
-CuponApp es una aplicación que permite al usuario generar cupones de descuento para sus compras en los diferentes campos disponibles. Deja de gastar mas dinero y aahorra con CuponApp, CuponApp la app de grandes descuentos para grandes personas.
+CuponApp es una aplicación que permite al usuario redimir cupones de descuento para sus compras en las diferentes tiendas disponibles por medio de asociaciones entre la app y las diferentes marcas. Deja de gastar mas dinero y ahorra con CuponApp, CuponApp la app de grandes descuentos para grandes personas.
 
 ***Aplicaciones similares :***
 
