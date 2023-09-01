@@ -13,52 +13,52 @@ presentan las principales pantallas:
 
    podra iniciar sesion por medio de formulario, google o facebook 
 
-   ![Inicio de sesion](images/PodcastList.png)
+   ![Inicio de sesion](images/Iniciarsesion.png)
 
 2. lista general de los descuentos:
 
    Al ingresar, el usuario verá la lista de descuentos mas calientes del momento.
 
-   ![Lista general](images/EpisodesPlaying.png)
+   ![Lista general](images/Home.png)
 
 3. registro:
 
   podra registrarse por medio de google, facebook y formulario
 
-   ![registro](images/Search.png)
+   ![registro](images/Register.png)
 
 4. informacion detallada de producto:
    
    podra ver informacion detallada sobre el descuento del producto
    
-   ![informacion detallada](images/Search.png)
+   ![informacion detallada](images/info.png)
    
 5. generar descuento:
 
    se genera un descuento por qr
    
-   ![qr generado](images/Search.png)
+   ![qr generado](images/Qr.png)
    
 6.buscador:
 
   podra filtrar o buscar por productos o marca
   
-  ![buscador](images/Search.png)
+  ![buscador](images/Home2.png)
   
 7. carrito:
    
    podra comprar membresias
    
-   ![membresias](images/Search.png)
+   ![membresias](images/Cuenta.png)
 
 8. perfil:
    
    podra editar su perfil, ver membresia y ver su historial
    
-   ![perfil](images/Search.png)
+   ![perfil](images/perfil.png)
 
 9.cerrar sesion:
 
    podra cerrar sesion para mejorar su privacidad
    
-   ![cerrar sesion](images/Search.png)
+   ![cerrar sesion](images/cerrar.png)
