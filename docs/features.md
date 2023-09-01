@@ -34,16 +34,4 @@ de una interfaz amigable. El usuario podrá:
 9. cerrar sesion: podra cerrar sesion para una mayor comodidad de su privacidad o ingreso con otra cuenta
 
 ## Funcionalidades de marca
-CuponApp le permitirá al usuario marca cargar descuentos y detalles de su marca asociada con la app a través
-de una interfaz amigable. El usuario podrá:
-
-1. cargar objetos: podra cargar objetos que tendran descuento por medio de un formulario.
-
-2. lista de descuentos: podra analizar todos los cupones de descuentos que ha publicado (Objetos) 
-
-3. contador de redencion: vera  un contador de sus cupones redimidos por el usuario
-
-4. iniciar sesion: Usuario podra iniciar sesion con diferentes metodos para su facilidad
-
-5. cerrar sesion: podra cerrar sesion para una mayor comodidad de su privacidad o ingreso con otra cuenta
-
+CuponApp le permitirá al usuario marca cargar descuentos y detalles de su marca asociada con la app. El usuario marca nos pasara los datos para nosotros almacenarlos en base de datos no tendra una interfaz 
