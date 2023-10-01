@@ -34,4 +34,19 @@ de una interfaz amigable. El usuario podrá:
 9. cerrar sesion: podra cerrar sesion para una mayor comodidad de su privacidad o ingreso con otra cuenta
 
 ## Funcionalidades de marca
-CuponApp le permitirá al usuario marca cargar descuentos y detalles de su marca asociada con la app. El usuario marca nos pasara los datos para nosotros almacenarlos en base de datos no tendra una interfaz 
+
+La funcionalidad de marca en CuponApp permite a las marcas asociadas cargar descuentos y detalles de sus productos o servicios en la aplicación. Este proceso se lleva a cabo de la siguiente manera:
+
+1. Comunicación Inicial: La marca se comunica con el equipo de CuponApp para expresar su interés en promocionar sus descuentos a través de la aplicación.
+
+2. Entrega de Datos: La marca proporciona a CuponApp los detalles necesarios sobre los descuentos que desean ofrecer a los usuarios. Esto puede incluir información como el nombre del producto o servicio, el porcentaje de descuento, las condiciones de redención, la duración de la oferta, etc.
+
+3. Formato de Datos: La marca entrega estos datos en un formato acordado previamente, lo que facilita su procesamiento y carga en la base de datos de la aplicación. Esto puede ser a través de un archivo estructurado o una interfaz de programación de aplicaciones (API), según lo que se haya acordado.
+
+4. Almacenamiento en la Base de Datos: El equipo de CuponApp se encarga de tomar los datos proporcionados por la marca y cargarlos en la base de datos de la aplicación de manera segura y eficiente. Esto asegura que los descuentos estén disponibles para los usuarios.
+
+5. Verificación y Validación: Antes de que los descuentos sean activados para su visualización por parte de los usuarios, se pueden realizar verificaciones y validaciones para asegurarse de que los datos sean precisos y cumplan con las políticas de la aplicación.
+
+6. Publicación de Descuentos: Una vez que los descuentos han sido cargados y verificados, se hacen visibles para los usuarios en la lista general de descuentos dentro de la aplicación.
+
+7. Mantenimiento Continuo: La marca puede seguir comunicándose con CuponApp para realizar actualizaciones o cambios en los descuentos, como ajustar las fechas de vencimiento o modificar los términos y condiciones.
