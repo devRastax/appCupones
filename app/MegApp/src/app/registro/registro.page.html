@@ -1,0 +1,49 @@
+<!-- <ion-header>
+  <div class="up_desing">
+      <ion-buttons class="back_icon" slot="start">
+        <ion-back-button defaultHref="/"></ion-back-button><strong class="back">Volver</strong> 
+      </ion-buttons>
+    <div class="title-container">
+      <ion-title class="ion-text-left register">Registrate <strong class="now">Ahora</strong> </ion-title>
+    </div>
+  </div>
+</ion-header> -->
+<ion-content [fullscreen]="true">
+  <div class="up_desing">
+    <div class="back-button" (click)="goToInicio()">
+      <ion-icon name="chevron-back-circle" class="custom-icon"></ion-icon>
+      <span class="button-text">Volver</span>
+    </div>
+    <div class="container ion-text-left register_container">
+      <h1 class="title">Registrate<br><strong class="now">Ahora</strong></h1>
+    </div>
+  </div>
+
+  <ion-content>
+
+      <ion-item>
+        <br />
+        <ion-input label="Outline input" label-placement="floating" fill="outline" placeholder="Enter text"><ion-input
+          type="email"
+          fill="solid"
+          label="Email"
+          labelPlacement="floating"
+          helperText="Enter a valid email"
+          errorText="Invalid email"
+          ngModel
+          email
+        ></ion-input></ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-label position="floating">Campo 2</ion-label>
+        <ion-input placeholder="Ingrese texto" type="text"></ion-input>
+      </ion-item>
+      <!-- Agrega los otros 9 campos de formulario de la misma manera -->
+  
+    <div class="ion-padding">
+      <ion-button expand="block">Registrarme</ion-button>
+    </div>
+  </ion-content>
+  
+</ion-content>
+

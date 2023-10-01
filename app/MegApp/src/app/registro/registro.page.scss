@@ -1,0 +1,41 @@
+.header-md{
+  box-shadow: none;
+}
+.up_desing {
+  --bs-bg-opacity: 1;
+  background-color: #3B2A56;
+  border-radius: 0px 0px 100px 0px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  padding-top: 2%; 
+  padding-bottom: 2%;
+}
+.register_container{
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+h1.title{
+  font-size: 40px;
+}
+strong.now{
+  font-weight: 900;
+}
+
+.back-button {
+  display: flex;
+  align-items:center;
+  justify-content: left;
+  margin-left: 5px;
+}
+
+.custom-icon {
+  color: white;
+  font-size: 24px;
+  /* Opcional: Agrega un margen derecho para separar el icono del texto */
+}
+
+.button-text {
+  /* Estilos adicionales para el texto del botón */
+  font-weight: 900;
+}

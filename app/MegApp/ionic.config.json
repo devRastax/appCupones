@@ -1,0 +1,7 @@
+{
+  "name": "MegApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,45 @@
+<!-- <ion-header>
+  
+    <div class="up_desing">
+      <div class="container d-flex justify-content-center align-items-center">
+        <img src="/assets/icon/cupon_app.png" class="img-fluid cupon" alt="...">
+      </div>
+    </div>
+  
+</ion-header>
+
+<ion-content class="back" scrollY="false" [fullscreen]="true">
+  <div class="d-grid gap-2 col-8 mx-auto conten-mg" >
+    <h1 class="text-center Title_app"><strong class="Title_N">Cupon</strong>App</h1>
+    <button class="btn btn-primary btn_i" type="button">Inicio De Sesion</button>
+    <p class="text-center text_o"><strong>Ó</strong></p>
+    <button class="btn btn-primary btn_g" type="button"><img class="icon" src="/assets/icon/logo_google.png" alt="">Continuar Con Google</button>
+    <button class="btn btn-primary btn_f" type="button"><img class="icon" src="/assets/icon/logo_facebook.png" alt="">Continuar Con Facebook</button>
+    <a class="text-center text_r" (click)="irAPaginaRegistro()"><strong>Registrarse</strong></a>
+
+  </div>
+</ion-content>
+ -->
+<ion-content [fullscreen]="true">
+  <div class="up_desing">
+    <div class="container ion-text-center">
+      <img src="/assets/icon/cupon_app.png" class="img-fluid cupon" alt="...">
+    </div>
+  </div>
+
+  <div class="ion-padding">
+    <h1 class="ion-text-center ion-padding h1"><strong class="Title_N">Cupon</strong>App</h1>
+    <ion-button expand="block" class="button-solid">
+      Inicio de Sesión
+    </ion-button>
+    <p class="ion-text-center p"><strong>Ó</strong></p>
+    <ion-button expand="block" class="button-solid2">
+      <ion-icon name="logo-google" class="icon"></ion-icon> Continuar con Google
+    </ion-button>
+    <ion-button expand="block" class="button-solid3">
+      <ion-icon name="logo-facebook" class="icon"></ion-icon> Continuar con Facebook
+    </ion-button>
+    <p class="ion-text-center p2">¿No tienes una cuenta?</p>
+    <p class="ion-text-center"><a (click)="irAPaginaRegistro()" class="p3"><strong>Registrarse</strong></a></p>
+  </div>
+</ion-content>
