@@ -2,7 +2,7 @@
 
 Todos los cambios representativos del proyecto serán documentados en este archivo para una mejor comprension de lo realizado.
 
- ## [Semana del]() - 2023-09-30
+ ## [Semana del]() - 2023-09-23
 
 ### Agregado
 
@@ -14,13 +14,13 @@ Todos los cambios representativos del proyecto serán documentados en este archi
 
 ### Cambiado
 
-- ...
+- Cambio en la descripcion de la funcionalidad de la marca
 
 ### Eliminado
 
-- ... -->
+- Elimino la descripcion ambigua que tenia
 
-## [0.1.0](../tree/v0.1.0) - 2000-06-22
+## [Semana del]() - 2023-09-16
 
 ### Agregado
 
@@ -30,7 +30,7 @@ Todos los cambios representativos del proyecto serán documentados en este archi
 
 - Formato en archivos de markup
 
-## [0.0.3](../tree/v0.0.3) - 2000-06-15
+## [Semana del]() - 2023-09-09
 
 ### Agregado
 
@@ -40,7 +40,7 @@ Todos los cambios representativos del proyecto serán documentados en este archi
 
 - Errores de ortografía
 
-## [0.0.2](../tree/v0.0.2) - 2000-06-08
+## [Semana del]() - 2023-09-02
 
 ### Agregado
 
@@ -50,10 +50,40 @@ Todos los cambios representativos del proyecto serán documentados en este archi
 
 - Errores de ortografía y algunos links
 
-## [0.0.1](../tree/v0.0.1) - 2000-06-01
+## [Semana del]() - 2023-08-26
+
+### Agregado
+
+- Mockups de diseño de UI
+
+### Corregido
+
+- Errores de ortografía y algunos links
+
+## [Semana del]() - 2023-08-26
+
+### Agregado
+
+- Mockups de diseño de UI
+
+### Corregido
+
+- Errores de ortografía y algunos links
+
+## [Semana del]() - 2023-08-19
+
+### Agregado
+
+- Mockups de diseño de UI
+
+### Corregido
+
+- Errores de ortografía y algunos links
+
+
+## [Semana del]() - 2023-08-12
 
 ### Agregado
 
 - Archivo readme  [README.md](../README.md)
-- Log de cambios [changelog.md](changelog.md)
 - Ideas de proyecto [ideas.md](ideas.md)
