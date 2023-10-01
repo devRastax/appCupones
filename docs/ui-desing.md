@@ -31,7 +31,7 @@ presentan las principales pantallas:
    
    podra ver informacion detallada sobre el descuento del producto
    
-   ![informacion detallada](images/info.png)
+   ![informacion detallada](images/Info.png)
    
 5. generar descuento:
 
