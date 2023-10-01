@@ -4,7 +4,7 @@
 
 1. Esta aplicación funcionará en dispositivos Android 7.0 y ios 10.
 
-2. La información usada en la aplicación sera generada por la app y de usop exclusivo para dicha.
+2. La información usada en la aplicación sera generada por la app y de uso exclusivo para dicha.
 
 3. Cualquier información enviada por el usuario será almacenada de forma local en el dispositivo.
 
