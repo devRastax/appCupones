@@ -2,88 +2,91 @@
 
 Todos los cambios representativos del proyecto serán documentados en este archivo para una mejor comprension de lo realizado.
 
- ## [Semana del]() - 2023-09-23
+ ## [Semana del]() - 2023-09-30
 
 ### Agregado
 
-- Se agrego historial de fechas de lo que se ha realizado
+- Se agrego historial de fechas de lo que se ha realizado [changeLoad.md](https://github.com/devRastax/appCupones/blob/main/docs/changeLoad.md)
 
 ### Corregido
 
-- Ruta de imagen para buena visualizacion en el documento
+- Ruta de imagen punto 4 para buena visualizacion en el documento [ui-desing.md](https://github.com/devRastax/appCupones/blob/main/docs/ui-desing.md)
 
 ### Cambiado
 
-- Cambio en la descripcion de la funcionalidad de la marca
+- Titulo de la funcionalidad de marca [features.md](https://github.com/devRastax/appCupones/blob/main/docs/features.md)
 
-### Eliminado
+## [Semana del]() - 2023-09-23
 
-- Elimino la descripcion ambigua que tenia
+### Agregado
+
+- Proyecto inicial creado con ionic
+- Se agregaron mas mockups para comprender mejor lo que se va a realizar
 
 ## [Semana del]() - 2023-09-16
 
 ### Agregado
 
-- Proyecto inicial creado con Android Studio
+- Agrega como va a ser la funcionalidad del usuario marca [features.md](https://github.com/devRastax/appCupones/tree/main/docs/features.md)
 
-### Cambiado
+### Corregido
 
-- Formato en archivos de markup
+- Corrección en la descripción de usuario marca [features.md](https://github.com/devRastax/appCupones/tree/main/docs/features.md)
 
 ## [Semana del]() - 2023-09-09
 
 ### Agregado
 
-- Lista de funcionalidades de la aplicación
+- Agrega contenido mas entendible con base a los consejos y recomendaciones del profesor [features.md](https://github.com/devRastax/appCupones/tree/main/docs/features.md)
 
 ### Corregido
 
-- Errores de ortografía
+- errores de ortografia especificamente en palabras con letras de más
 
 ## [Semana del]() - 2023-09-02
 
 ### Agregado
 
-- Mockups de diseño de UI
+- se agrega una descripcion de la funcionalidad de usuario marca
 
 ### Corregido
 
-- Errores de ortografía y algunos links
+- Se corrigio la funcionalidad del usuario marca para que su función solo sea por base de datos [features.md](https://github.com/devRastax/appCupones/tree/main/docs/features.md)
 
 ## [Semana del]() - 2023-08-26
 
 ### Agregado
 
-- Mockups de diseño de UI
+- Se agregaron las imagenes de los mockups a la carpeta images [images.md](https://github.com/devRastax/appCupones/tree/main/docs/images)
+- Se agregó la funcionalidad e imagenes de mockups  [ui-desing.md](https://github.com/devRastax/appCupones/tree/main/docs/ui-desing.md)
 
-### Corregido
+### Eliminado
 
-- Errores de ortografía y algunos links
-
-## [Semana del]() - 2023-08-26
-
-### Agregado
-
-- Mockups de diseño de UI
-
-### Corregido
-
-- Errores de ortografía y algunos links
+- Se elimino un archivo duplicado de Readme.md
 
 ## [Semana del]() - 2023-08-19
 
 ### Agregado
 
-- Mockups de diseño de UI
+- Archivo ui-desing.md [ui-desing.md](https://github.com/devRastax/appCupones/tree/main/docs/ui-desing.md)
 
 ### Corregido
 
-- Errores de ortografía y algunos links
-
+- Nombres de archivos y links de acceso
 
 ## [Semana del]() - 2023-08-12
 
 ### Agregado
 
-- Archivo readme  [README.md](../README.md)
-- Ideas de proyecto [ideas.md](ideas.md)
+- Carpeta de imagenes  [images.md](https://github.com/devRastax/appCupones/tree/main/docs/images)
+
+### Corregido
+
+- Errores de ideas de proyecto [Help.md](https://github.com/devRastax/appCupones/blob/main/docs/Help.md)
+
+## [Semana del]() - 2023-08-05
+
+### Agregado
+
+- Archivo readme  [README.md](https://github.com/devRastax/appCupones/blob/main/docs/README.md)
+- Ideas de proyecto [Help.md](https://github.com/devRastax/appCupones/blob/main/docs/Help.md)
