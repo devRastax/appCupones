@@ -33,7 +33,7 @@ de una interfaz amigable. El usuario podrá:
 
 9. cerrar sesion: podra cerrar sesion para una mayor comodidad de su privacidad o ingreso con otra cuenta
 
-## Funcionalidades de marca
+## Funcionalidad del usuario marca
 
 La funcionalidad de marca en CuponApp permite a las marcas asociadas cargar descuentos y detalles de sus productos o servicios en la aplicación. Este proceso se lleva a cabo de la siguiente manera:
 
